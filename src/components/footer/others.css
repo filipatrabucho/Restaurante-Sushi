@@ -1,0 +1,11 @@
+.others {
+  max-width: 75vw;
+  margin: auto;
+}
+.others h2 {
+  margin-top: 1.875rem;
+  margin-bottom: 1.875rem;
+}
+.others p {
+  margin-bottom: 1.25rem;
+}

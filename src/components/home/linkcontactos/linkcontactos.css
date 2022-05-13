@@ -1,0 +1,11 @@
+.contact__container {
+  text-align: center;
+}
+
+.contact__description {
+  margin-bottom: var(--mb-3);
+}
+.contact {
+  margin-top: 20px !important;
+  padding-top: 60px !important;
+}

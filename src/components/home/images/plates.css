@@ -1,0 +1,15 @@
+.homepage__plates {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+  margin-bottom: 20px;
+}
+.homepage__plates {
+  display: flex;
+  flex-direction: row;
+}
+.homepage__plates img {
+  max-width: 642px;
+}

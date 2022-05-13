@@ -1,0 +1,38 @@
+.homepage {
+  background-image: url("../../assets/sushi.jpeg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  width: 100%;
+  height: 700px;
+}
+.homepage__info {
+  padding-top: 19em;
+  text-align: center;
+  color: azure;
+}
+.homepage__info h1 {
+  margin-bottom: 20px;
+}
+.homepage__info p {
+  margin-bottom: 45px;
+}
+.homepage__button {
+  cursor: pointer;
+  background-color: #f26929;
+  color: white;
+  text-align: center;
+  border-style: none;
+  padding: 0.5em 1.5em;
+  text-transform: capitalize;
+  border-radius: 3px;
+  transition: 250ms;
+  font-family: "Saira", sans-serif;
+  animation: 2s ease-in-out;
+}
+.homepage__button:hover {
+  background-color: #fff;
+  color: black;
+}
+
+
+
